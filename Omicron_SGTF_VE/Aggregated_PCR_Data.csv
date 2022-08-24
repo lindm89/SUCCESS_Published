@@ -1,0 +1,1544 @@
+sex,group_age,race,charlson,visits,in_group,svi_group,vax_status,year,PCR_results,count
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,282
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,7
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,95
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,14
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Negative,110
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Negative,83
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Positive,7
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,1205
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,38
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,357
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,71
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,2890
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,84
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,735
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,153
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,299
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,7
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,88
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,17
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Negative,140
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Negative,86
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Positive,9
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,1223
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,48
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,425
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,65
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,2655
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,67
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,629
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,154
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,17
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2022,Negative,6
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,53
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,13
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,10
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,329
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,6
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,76
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,21
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,23
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,6
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,7
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,37
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,24
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,276
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,12
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,74
+FEMALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,20
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,156
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,35
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,9
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,137
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,70
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,811
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,24
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,262
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,65
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,1055
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,20
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,247
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,64
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,285
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,8
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,88
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,17
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,284
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,8
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,188
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,24
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,1563
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,51
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,592
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,120
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,1538
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,53
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,393
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,108
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Booster Dose,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,14
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,29
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,7
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2021,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,31
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,6
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,39
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,10
+FEMALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2021,Negative,9
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,46
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,8
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,62
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,30
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,6
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,6
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,49
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,18
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,62
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,23
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,6
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,33
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,9
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,35
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,25
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,229
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,59
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,9
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,195
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,6
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,46
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,16
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,54
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,19
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,88
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,55
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,6
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,397
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,9
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,141
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,38
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,266
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,97
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,16
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,7
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,<5
+FEMALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,107
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,35
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,8
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Negative,36
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Negative,27
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,494
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,28
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,155
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,32
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,2280
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,86
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,497
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,183
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,161
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,7
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,46
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,16
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Negative,52
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Negative,66
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Positive,9
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,562
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,46
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,251
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,71
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,1900
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,100
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,583
+FEMALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,179
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,7
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,8
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,52
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,17
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,7
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,552
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,46
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,139
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,35
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,19
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,8
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,7
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,8
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,49
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,31
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,15
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,478
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,34
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,174
+FEMALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,71
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,62
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,15
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,32
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,16
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,289
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,18
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,94
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,27
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,529
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,13
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,101
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,43
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,210
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,19
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,95
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,35
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,84
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,114
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,14
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,868
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,87
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,357
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,138
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,1460
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,109
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,442
+FEMALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,188
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,7
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,27
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,6
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,12
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,7
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2021,Negative,6
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,7
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,40
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,19
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,14
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,57
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,6
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,9
+FEMALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,17
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,12
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,24
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,10
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,72
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,9
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,8
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,17
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Negative,7
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Negative,6
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,23
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,25
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,12
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,70
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,11
+FEMALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,9
+FEMALE,<40 years,Other,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,22
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,8
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,15
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,8
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,104
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,27
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,12
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,185
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,28
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,12
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,93
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,8
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,35
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,10
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,28
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,30
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,288
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,44
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,152
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,48
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,434
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,39
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,149
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,61
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,9
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,7
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,<5
+FEMALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,159
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,71
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,14
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Negative,140
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Negative,82
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Positive,11
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,991
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,20
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,296
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,55
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,1001
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,24
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,251
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,54
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,84
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,26
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,10
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Negative,145
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Negative,89
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Positive,8
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,602
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,12
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,209
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,37
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,580
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,10
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,209
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,25
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,11
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,65
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,12
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,10
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,50
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,12
+FEMALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,249
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,81
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,13
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,412
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Positive,6
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,224
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,24
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,1655
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,27
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,578
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,97
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,859
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,16
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,256
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,50
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,269
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,139
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,18
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,802
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,458
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,37
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,2351
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,41
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,968
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,151
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,1028
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,20
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,295
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,82
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Booster Dose,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,12
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,14
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2021,Negative,6
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,12
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,18
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,74
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,29
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2021,Negative,111
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Negative,45
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Positive,7
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,444
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,10
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,144
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,19
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,569
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,9
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,188
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,32
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,59
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,23
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Negative,93
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Negative,49
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Positive,10
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,330
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,7
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,124
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,20
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,464
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,6
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,155
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,32
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,7
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,9
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,120
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,22
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,10
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,122
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,30
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,137
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,51
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,9
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,355
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,167
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,22
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,999
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,24
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,392
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,44
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,381
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,6
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,128
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,24
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,185
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,106
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,15
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,618
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,9
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,437
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,36
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,1484
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,31
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,730
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,99
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,474
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,7
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,219
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,32
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,6
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,7
+FEMALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,51
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,26
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Negative,59
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Negative,17
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Positive,7
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,364
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,7
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,77
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,16
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,545
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,21
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,155
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,48
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,38
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,19
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Negative,62
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Negative,49
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,244
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,15
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,125
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,22
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,434
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,17
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,159
+FEMALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,39
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,22
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,152
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,9
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,34
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,10
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,6
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,20
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,8
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,8
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,118
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,7
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,51
+FEMALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,11
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,71
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,22
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,70
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,30
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,7
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,358
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,10
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,103
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,20
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,305
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,14
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,46
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,22
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,143
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,9
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,84
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,10
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,204
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,10
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,178
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,13
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,753
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,49
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,357
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,84
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,465
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,29
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,173
+FEMALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,48
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,11
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,22
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2021,Negative,6
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,13
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,28
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,17
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,13
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,20
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,7
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,9
+FEMALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,37
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2021,Negative,37
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Negative,28
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,160
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,59
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,6
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,434
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,11
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,111
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,20
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,20
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,17
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Negative,32
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Negative,19
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,123
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,9
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,60
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,16
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,380
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,10
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,152
+FEMALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,18
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,8
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,27
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,299
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,10
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,54
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,17
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,9
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,9
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Booster Dose,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,19
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,9
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,6
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,249
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,95
+FEMALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,15
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,61
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,12
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,6
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,58
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,31
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,310
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,11
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,80
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,28
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,219
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,7
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,43
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,10
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,148
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,82
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,22
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,229
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,12
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,257
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,30
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,781
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,40
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,405
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,93
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,430
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,15
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,165
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,43
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2021,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,12
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,16
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,11
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,7
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,<5
+FEMALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,229
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,9
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,50
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,16
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Negative,69
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Negative,33
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,939
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,37
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,282
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,75
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,2523
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,94
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,547
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,155
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,279
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,9
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,64
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,8
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Negative,72
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Negative,54
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,1131
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,44
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,401
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,99
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,2861
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,80
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,596
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,163
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,14
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,9
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,41
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,15
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,343
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,10
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,68
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,17
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,12
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,7
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,57
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,7
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,11
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,340
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,11
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,75
+MALE,<40 years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,21
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,85
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,15
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,22
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,28
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,423
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,15
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,123
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,31
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,715
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,23
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,130
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,49
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,177
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,27
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,6
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,70
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,70
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,7
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,594
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,31
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,247
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,56
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,849
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,31
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,262
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,75
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,17
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,30
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,29
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,14
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,34
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,12
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2021,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,20
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,11
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,53
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,14
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,17
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Negative,7
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,47
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,16
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,76
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,17
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,7
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,15
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,11
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,8
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,100
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,47
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,139
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,6
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,29
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,10
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,30
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,11
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,20
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,13
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,161
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,8
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,57
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,14
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,185
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,6
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,42
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,19
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Positive,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,<5
+MALE,<40 years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,<5
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,111
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,27
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,7
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Negative,14
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Negative,19
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,374
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,16
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,100
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,28
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,1662
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,68
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,409
+MALE,<40 years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,160
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,130
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,41
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,17
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Negative,34
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Negative,26
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,484
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,53
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,199
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,71
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,1888
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,82
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,582
+MALE,<40 years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,175
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,9
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Positive,<5
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2022,Negative,<5
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,44
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,18
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,9
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,548
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,50
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,115
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,51
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,18
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,12
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,7
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,6
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,85
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,7
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,39
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,19
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,555
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,64
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,185
+MALE,<40 years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,87
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,32
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,7
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,7
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,142
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,9
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,38
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,14
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,350
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,14
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,79
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,23
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,101
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,47
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,18
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,22
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,27
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,395
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,36
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,190
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,80
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,918
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,67
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,299
+MALE,<40 years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,140
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Booster Dose,2022,Negative,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,8
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,25
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,7
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,18
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,16
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,39
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,9
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,14
+MALE,<40 years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,8
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,6
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,15
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,65
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,13
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,6
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Negative,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Negative,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,22
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,21
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,45
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,8
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,24
+MALE,<40 years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,10
+MALE,<40 years,Other,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,6
+MALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,<5
+MALE,<40 years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,18
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,52
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,21
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,109
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,27
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,13
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,36
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,17
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,7
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,7
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,14
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,111
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,8
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,59
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,24
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,296
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,29
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,87
+MALE,<40 years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,41
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2021,Negative,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,9
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,9
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+MALE,<40 years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,119
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,7
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,25
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,6
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Negative,105
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Negative,40
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Positive,6
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,685
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,23
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,226
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,40
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,679
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,14
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,170
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,40
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,95
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,23
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,7
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Negative,119
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Negative,69
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Positive,8
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,616
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,24
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,217
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,57
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,636
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,16
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,177
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,49
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,22
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,68
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,16
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,23
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,57
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,10
+MALE,40+ years,Non-Hispanic White,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,9
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,179
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,57
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,18
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,233
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,106
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,12
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,1022
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,29
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,337
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,74
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,469
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,15
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,110
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,34
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,120
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,52
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,11
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,422
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,8
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,238
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,19
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,1165
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,25
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,454
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,70
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,436
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,16
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,138
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,37
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Booster Dose,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,11
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,15
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,8
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,11
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,73
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,26
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2021,Negative,103
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Negative,42
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,460
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,14
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,155
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,22
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,503
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,16
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,145
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,28
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,50
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,36
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,6
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Negative,88
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Negative,42
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Positive,7
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,396
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,13
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,173
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,38
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,411
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,12
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,161
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,28
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Booster Dose,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,19
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,106
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,21
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,6
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,15
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,110
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,28
+MALE,40+ years,Non-Hispanic White,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,107
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,47
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,6
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,308
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,134
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,16
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,774
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,15
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,290
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,46
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,250
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,7
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,66
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,16
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,113
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,65
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,8
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,462
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,10
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,279
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,28
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,996
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,27
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,531
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,79
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,308
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,8
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,142
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,29
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,<5
+MALE,40+ years,Non-Hispanic White,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,<5
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,48
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,14
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Negative,40
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2021,Positive,<5
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Negative,21
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,250
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,9
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,58
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,20
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,433
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,18
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,103
+MALE,40+ years,Other,Score: 0,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,41
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,54
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,18
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,6
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2021,Negative,61
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Negative,28
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Booster Dose,2022,Positive,<5
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,239
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,19
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,115
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,28
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,490
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,16
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,148
+MALE,40+ years,Other,Score: 0,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,47
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Booster Dose,2022,Positive,<5
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,22
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,10
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,6
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,163
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,11
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,26
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,17
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,6
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,7
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,10
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,7
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Booster Dose,2022,Positive,<5
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,35
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,9
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,9
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,9
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,150
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,14
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,59
+MALE,40+ years,Other,Score: 0,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,24
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,31
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,11
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,6
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,51
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,24
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,6
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,221
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,7
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,38
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,11
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,131
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,6
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,34
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,7
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,33
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,19
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,90
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,69
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,11
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,276
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,15
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,133
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,43
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,193
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,14
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,82
+MALE,40+ years,Other,Score: 0,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,23
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,10
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,9
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,6
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,1 Dose mRNA,2022,Positive,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2021,Negative,6
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,9
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,33
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,17
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,7
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,9
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,<5
+MALE,40+ years,Other,Score: 0,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,7
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Negative,21
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Negative,9
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2021,Negative,32
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Negative,13
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Negative,172
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2021,Positive,7
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Negative,57
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Full Primary Series,2022,Positive,11
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Negative,404
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2021,Positive,18
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Negative,95
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,<0.5,Unvaccinated,2022,Positive,29
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Negative,17
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Negative,10
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,1 Dose mRNA,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Negative,47
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Negative,26
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Booster Dose,2022,Positive,7
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Negative,145
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2021,Positive,9
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Negative,87
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Full Primary Series,2022,Positive,12
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Negative,391
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2021,Positive,15
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Negative,141
+MALE,40+ years,Other,Score: 1+,0 visits,Insured,0.5+,Unvaccinated,2022,Positive,30
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Booster Dose,2021,Negative,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Booster Dose,2022,Negative,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2021,Negative,16
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2022,Negative,6
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Negative,254
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2021,Positive,8
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2022,Negative,40
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,<0.5,Unvaccinated,2022,Positive,17
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,9
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,1 Dose mRNA,2022,Negative,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Booster Dose,2021,Negative,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Booster Dose,2022,Negative,6
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Booster Dose,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2021,Negative,23
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2022,Negative,12
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Full Primary Series,2022,Positive,7
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Negative,199
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2022,Negative,86
+MALE,40+ years,Other,Score: 1+,0 visits,Uninsured,0.5+,Unvaccinated,2022,Positive,14
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2021,Negative,25
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,1 Dose mRNA,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2021,Negative,34
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Negative,26
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Booster Dose,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Negative,179
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2021,Positive,6
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Negative,57
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Full Primary Series,2022,Positive,15
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Negative,95
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Negative,19
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,<0.5,Unvaccinated,2022,Positive,11
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Negative,69
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Negative,44
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,1 Dose mRNA,2022,Positive,7
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Negative,128
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Negative,126
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Booster Dose,2022,Positive,16
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Negative,328
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2021,Positive,17
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Negative,178
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Full Primary Series,2022,Positive,46
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Negative,139
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2021,Positive,8
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Negative,97
+MALE,40+ years,Other,Score: 1+,1+ visits,Insured,0.5+,Unvaccinated,2022,Positive,18
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,1 Dose mRNA,2022,Negative,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,1 Dose mRNA,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2021,Negative,6
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Negative,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Full Primary Series,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2021,Negative,6
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Negative,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,<0.5,Unvaccinated,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,1 Dose mRNA,2021,Negative,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2021,Negative,6
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2022,Negative,8
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Booster Dose,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Negative,9
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Negative,7
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Full Primary Series,2022,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Negative,11
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2021,Positive,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Negative,<5
+MALE,40+ years,Other,Score: 1+,1+ visits,Uninsured,0.5+,Unvaccinated,2022,Positive,<5
